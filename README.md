@@ -7,7 +7,7 @@
     ██▀██ ▄▄██▀ ██     ██   
 
     >_ aernyOS • Solus Package tool
-    >_ version 1.0
+    >_ version 0.8
 
 
     Commands & Usage:
